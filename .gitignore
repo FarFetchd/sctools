@@ -104,3 +104,7 @@ ENV/
 # do not check in the executable and bam file
 fastqpreprocessing/src/fastqprocess
 src/sctools/test/data/bam_with_tags_test.bam
+fastqpreprocessing/bin/TagSort
+fastqpreprocessing/bin/fastqprocess
+fastqpreprocessing/bin/libhts.so.3
+fastqpreprocessing/src/TagSort
